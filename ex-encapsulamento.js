@@ -40,4 +40,4 @@ minhaConta.sacar(500);
 minhaConta.verSaldo(); // Saldo atual: R$ 500
 
 // Tentando acessar a propriedade privada diretamente (não é possível)
-console.log(minhaConta.#saldo); // Erro: Private field '#saldo' must be declared in an enclosing class
+//console.log(minhaConta.#saldo); // Erro: Private field '#saldo' must be declared in an enclosing class
